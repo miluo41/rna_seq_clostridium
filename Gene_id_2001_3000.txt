@@ -1,0 +1,1001 @@
+Gene ID	Locus Tag	Gene Product Name	Genome ID	Genome Name	Batch1	Gene Symbol	
+650470895	Clo1313_2060	FAD-dependent pyridine nucleotide-disulfide oxidoreductase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470896	Clo1313_2061	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470897	Clo1313_2062	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470898	Clo1313_2063	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470899	Clo1313_2064	FAD dependent oxidoreductase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470900	Clo1313_2065	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470901	Clo1313_2066	response regulator receiver	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470902	Clo1313_2067	4Fe-4S ferredoxin iron-sulfur binding domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470903	Clo1313_2068	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470904	Clo1313_2069	protein of unknown function UPF0044	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470905	Clo1313_2070	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470906	Clo1313_2071	GTP-binding protein Obg/CgtA	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	obg	
+650470907	Clo1313_2072	LSU ribosomal protein L27P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rpmA	
+650470908	Clo1313_2073	protein of unknown function DUF464	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470909	Clo1313_2074	LSU ribosomal protein L21P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rplU	
+650470910	Clo1313_2075	RNAse G (EC 3.1.4.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470911	Clo1313_2076	Protein of unknown function DUF2344	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470912	Clo1313_2077	Radical SAM domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470913	Clo1313_2078	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470914	Clo1313_2079	protein of unknown function DUF1292	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470915	Clo1313_2080	Holliday junction resolvase YqgF	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470916	Clo1313_2081	aldo/keto reductase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470917	Clo1313_2082	protein of unknown function DUF965	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470918	Clo1313_2083	RNA modification enzyme, MiaB family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470919	Clo1313_2084	phosphoryl transfer system HPr	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470920	Clo1313_2085	protein of unknown function DUF523	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470921	Clo1313_2086	RNAse R (EC 3.1.-.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rnr	
+650470922	Clo1313_2087	transposase IS200-family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470923	Clo1313_2088	metal dependent phosphohydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470924	Clo1313_2089	preprotein translocase, SecG subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470925	Clo1313_2090	enolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	eno	
+650470926	Clo1313_2091	diguanylate cyclase and metal dependent phosphohydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470927	Clo1313_2092	phosphoglycerate mutase (EC 5.4.2.1)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	gpmI	
+650470928	Clo1313_2093	triosephosphate isomerase (EC 5.3.1.1)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	tpiA	
+650470929	Clo1313_2094	phosphoglycerate kinase (EC 2.7.2.3)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	pgk	
+650470930	Clo1313_2095	glyceraldehyde-3-phosphate dehydrogenase, type I	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470931	Clo1313_2096	4'-phosphopantetheinyl transferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470932	Clo1313_2097	Beta-ketoacyl synthase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470933	Clo1313_2098	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470934	Clo1313_2099	AMP-dependent synthetase and ligase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470935	Clo1313_2100	Beta-ketoacyl-acyl-carrier-protein synthase I	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470936	Clo1313_2101	phosphopantetheine-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470937	Clo1313_2102	Beta-ketoacyl-acyl-carrier-protein synthase I	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470938	Clo1313_2103	diguanylate cyclase and metal dependent phosphohydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470939	Clo1313_2104	RNA methyltransferase, TrmH family, group 2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470940	Clo1313_2105	CheC domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470941	Clo1313_2106	stage V sporulation protein ae	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470942	Clo1313_2107	stage V sporulation protein AE	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470943	Clo1313_2108	stage V sporulation protein AD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470944	Clo1313_2109	stage V sporulation protein AC	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470945	Clo1313_2110	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470946	Clo1313_2111	RNA polymerase, sigma subunit, RpoX/SigF	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470947	Clo1313_2112	anti-sigma regulatory factor, serine/threonine protein kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470948	Clo1313_2113	anti-anti-sigma regulatory factor, SpoIIAA	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470949	Clo1313_2114	Phosphotransferase system, phosphocarrier protein HPr	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470950	Clo1313_2115	protein of unknown function DUF199	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	whiA	
+650470951	Clo1313_2116	glycogen debranching enzyme	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470952	Clo1313_2117	protein of unknown function UPF0052 and CofD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470953	Clo1313_2118	UPF0042 nucleotide-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470954	Clo1313_2119	UDP-N-acetylmuramate dehydrogenase (EC 1.1.1.158)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	murB	
+650470955	Clo1313_2120	PHP domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470956	Clo1313_2121	Hpr(Ser) kinase/phosphatase (EC 2.7.1.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	hprK	
+650470957	Clo1313_2122	Dockerin type 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470960	Clo1313_2123	type IV pilus assembly PilZ	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470961	Clo1313_2124	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ribH	
+650470962	Clo1313_2125	3,4-dihydroxy-2-butanone 4-phosphate synthase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ribBA	
+650470963	Clo1313_2126	riboflavin synthase alpha chain (EC 2.5.1.9)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470964	Clo1313_2127	riboflavin biosynthesis protein RibD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470965	Clo1313_2128	protein of unknown function UPF0047	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470966	Clo1313_2129	tRNA (guanine-N(7)-)-methyltransferase (EC 2.1.1.33)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	trmB	
+650470967	Clo1313_2130	iron-containing alcohol dehydrogenase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470968	Clo1313_2131	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470969	Clo1313_2132	5,10-methylenetetrahydrofolate reductase (NAD(P)) (EC 1.5.1.20)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470970	Clo1313_2133	peptidase M50	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470971	Clo1313_2134	Peptidase M23	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470972	Clo1313_2135	protein of unknown function UPF0180	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470973	Clo1313_2136	methylglyoxal synthase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470974	Clo1313_2137	cell division topological specificity factor MinE	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	minE	
+650470975	Clo1313_2138	septum site-determining protein MinD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470976	Clo1313_2139	septum site-determining protein MinC	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	minC	
+650470977	Clo1313_2140	penicillin-binding protein 2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470978	Clo1313_2141	rod shape-determining protein MreD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470979	Clo1313_2142	rod shape-determining protein MreC	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470980	Clo1313_2143	rod shape-determining protein MreB	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470981	Clo1313_2144	maf protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470982	Clo1313_2145	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470983	Clo1313_2146	Negative regulator of genetic competence	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470984	Clo1313_2147	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470985	Clo1313_2148	protein serine/threonine phosphatase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470986	Clo1313_2149	ATP-dependent protease La	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	lon	
+650470987	Clo1313_2150	glutamate N-acetyltransferase (EC 2.3.1.35)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	argJ	
+650470988	Clo1313_2151	CheW protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470989	Clo1313_2152	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470990	Clo1313_2153	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470991	Clo1313_2154	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470992	Clo1313_2155	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470993	Clo1313_2156	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470994	Clo1313_2157	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470995	Clo1313_2159	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470996	Clo1313_2160	phage shock protein C (PspC) family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470997	Clo1313_2161	cellulose 1,4-beta-cellobiosidase (EC 3.2.1.91)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650470998	Clo1313_2162	asparaginyl-tRNA synthetase (EC 6.1.1.22)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	asnS	
+650470999	Clo1313_2163	aspartate-ammonia ligase (EC 6.3.1.1)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	asnA	
+650471000	Clo1313_2164	Peptidylprolyl isomerase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471001	Clo1313_2165	Silent information regulator protein Sir2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	cobB	
+650471002	Clo1313_2166	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471003	Clo1313_2167	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471004	Clo1313_2168	Na/Pi-cotransporter II-related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471005	Clo1313_2169	Rubredoxin-type Fe(Cys)4 protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471006	Clo1313_2170	sulfatase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471007	Clo1313_2171	BioY protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471008	Clo1313_2172	SEC-C motif domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471009	Clo1313_2173	type 3a cellulose-binding domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471010	Clo1313_2174	RNA polymerase sigma-I factor	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471011	Clo1313_2175	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471012	Clo1313_2176	S-layer domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471013	Clo1313_2177	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471014	Clo1313_2178	protein of unknown function DUF187	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471015	Clo1313_2179	ribonucleoside-diphosphate reductase class II (EC 1.17.4.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471016	Clo1313_2180	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471017	Clo1313_2181	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471018	Clo1313_2182	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471019	Clo1313_2183	helix-turn-helix domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471020	Clo1313_2184	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471021	Clo1313_2185	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471022	Clo1313_2186	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471023	Clo1313_2187	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471024	Clo1313_2188	Spore coat protein CotH	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471025	Clo1313_2189	endoglucanase Cel9N	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471026	Clo1313_2190	iron-only hydrogenase maturation protein HydF	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471027	Clo1313_2191	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471028	Clo1313_2192	endo-1,3(4)-beta-glucanase (EC:3.2.1.6)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	celI	
+650471029	Clo1313_2193	methyl-accepting chemotaxis sensory transducer	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471030	Clo1313_2194	CheW protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471031	Clo1313_2195	methyl-accepting chemotaxis sensory transducer	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471032	Clo1313_2196	CheW protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471033	Clo1313_2197	heat shock protein Hsp20	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471034	Clo1313_2198	hybrid cluster protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	hcp	
+650471035	Clo1313_2199	iron-sulfur binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471036	Clo1313_2200	transcriptional regulator, Crp/Fnr family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471037	Clo1313_2201	small GTP-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471038	Clo1313_2202	Dockerin type 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471039	Clo1313_2203	Protein of unknown function DUF2174-like protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471040	Clo1313_2204	Nucleotidyltransferase, predicted	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471041	Clo1313_2207	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	bioA	
+650471042	Clo1313_2208	biotin biosynthesis protein BioC	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	bioC	
+650471043	Clo1313_2209	Carboxylesterase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471044	Clo1313_2210	8-amino-7-oxononanoate synthase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	bioF	
+650471045	Clo1313_2211	dethiobiotin synthase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	bioD	
+650471046	Clo1313_2212	biotin synthase (EC 2.8.1.6)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	bioB	
+650471047	Clo1313_2214	protein of unknown function DUF1538	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471048	Clo1313_2215	Ferritin Dps family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471049	Clo1313_2216	alpha-L-arabinofuranosidase B	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471050	Clo1313_2217	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471051	Clo1313_2219	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471052	Clo1313_2221	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471053	Clo1313_2222	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471054	Clo1313_2223	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471055	Clo1313_2224	transposase mutator type	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471056	Clo1313_2225	helix-turn-helix domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471057	Clo1313_2226	protein of unknown function DUF891	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471058	Clo1313_2228	alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471059	Clo1313_2229	protein of unknown function DUF1706	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471060	Clo1313_2231	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471061	Clo1313_2232	RNA polymerase, sigma-24 subunit, ECF subfamily	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471062	Clo1313_2233	glycoside hydrolase family 5	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471063	Clo1313_2234	glycoside hydrolase family 5	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	celH	
+650471064	Clo1313_2235	NADPH-dependent FMN reductase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471065	Clo1313_2237	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471066	Clo1313_2238	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471067	Clo1313_2239	dCTP deaminase (EC 3.5.4.13)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	dcd	
+650471068	Clo1313_2240	transcriptional regulator, TetR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471069	Clo1313_2241	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471070	Clo1313_2242	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471071	Clo1313_2243	putative membrane protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471072	Clo1313_2244	Cof-like hydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471073	Clo1313_2245	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471074	Clo1313_2246	transcriptional regulator	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471075	Clo1313_2247	beta-lactamase domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471076	Clo1313_2248	NUDIX hydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471077	Clo1313_2249	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471078	Clo1313_2250	methyl-accepting chemotaxis sensory transducer	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471079	Clo1313_2251	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471080	Clo1313_2252	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471081	Clo1313_2253	transcriptional regulator, PadR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471082	Clo1313_2254	NAD(P)H dehydrogenase (quinone)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471083	Clo1313_2255	transcriptional regulator, PadR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471084	Clo1313_2256	protein of unknown function DUF6 transmembrane	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471085	Clo1313_2257	pyridoxamine 5'-phosphate oxidase-related FMN-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471086	Clo1313_2258	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471087	Clo1313_2259	methyl-accepting chemotaxis sensory transducer	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471088	Clo1313_2260	ammonium transporter (TC 1.A.11)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471089	Clo1313_2261	ABC transporter transmembrane region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471090	Clo1313_2262	ABC transporter transmembrane region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471091	Clo1313_2263	transcriptional regulator, MarR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471092	Clo1313_2264	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471093	Clo1313_2265	Linocin_M18 bacteriocin protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471094	Clo1313_2266	S-layer domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471095	Clo1313_2267	metal dependent phosphohydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471096	Clo1313_2269	AIG2 family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471097	Clo1313_2270	arsenate reductase-like protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471098	Clo1313_2271	protein of unknown function DUF438	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471099	Clo1313_2272	short-chain dehydrogenase/reductase SDR	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471100	Clo1313_2273	DNA methylase N-4/N-6 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471101	Clo1313_2274	Type II site-specific deoxyribonuclease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471102	Clo1313_2275	DNA adenine methylase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471103	Clo1313_2276	protein of unknown function DUF125 transmembrane	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471104	Clo1313_2278	ribosome small subunit-dependent GTPase A	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rsgA	
+650471105	Clo1313_2279	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471106	Clo1313_2280	type I phosphodiesterase/nucleotide pyrophosphatase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471107	Clo1313_2282	internalin A	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471108	Clo1313_2283	SAM-dependent methyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471109	Clo1313_2284	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471110	Clo1313_2285	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471111	Clo1313_2286	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471112	Clo1313_2287	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471113	Clo1313_2288	NADPH-dependent FMN reductase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471114	Clo1313_2289	glycosyl transferase group 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471115	Clo1313_2290	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471116	Clo1313_2291	protein of unknown function DUF214	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471117	Clo1313_2292	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471118	Clo1313_2293	integral membrane sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471119	Clo1313_2294	two component transcriptional regulator, winged helix family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471120	Clo1313_2296	flavin reductase domain protein FMN-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471121	Clo1313_2298	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471122	Clo1313_2299	ABC-2 type transport system permease protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471123	Clo1313_2300	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471124	Clo1313_2301	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471125	Clo1313_2302	helix-turn-helix domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471126	Clo1313_2303	glutamine synthetase catalytic region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	glnA3	
+650471127	Clo1313_2304	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B (EC 6.3.5.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	gatB	
+650471128	Clo1313_2305	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit A (EC 6.3.5.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	gatA	
+650471129	Clo1313_2306	aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C (EC 6.3.5.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471130	Clo1313_2307	aspartyl-tRNA synthetase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	aspS2	
+650471131	Clo1313_2309	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471132	Clo1313_2310	4Fe-4S ferredoxin iron-sulfur binding domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471133	Clo1313_2311	Protein of unknown function DUF2871	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471134	Clo1313_2312	Enoyl-CoA hydratase/isomerase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471135	Clo1313_2314	Methyltransferase type 12	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471136	Clo1313_2317	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471137	Clo1313_2318	flavin reductase domain protein FMN-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471138	Clo1313_2319	methylated-DNA/protein-cysteine methyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471139	Clo1313_2321	NLPA lipoprotein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471140	Clo1313_2322	binding-protein-dependent transport systems inner membrane component	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471141	Clo1313_2323	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471142	Clo1313_2324	transcriptional regulator, BadM/Rrf2 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471143	Clo1313_2325	cystathionine gamma-lyase (EC 4.4.1.1)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471144	Clo1313_2326	cystathionine beta-synthase (acetylserine-dependent) (EC 4.2.1.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471145	Clo1313_2327	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471146	Clo1313_2328	protein of unknown function DUF214	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471147	Clo1313_2329	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471148	Clo1313_2330	GCN5-related N-acetyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471149	Clo1313_2331	oxidoreductase/nitrogenase component 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471150	Clo1313_2332	oxidoreductase/nitrogenase component 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471151	Clo1313_2333	Dinitrogenase iron-molybdenum cofactor biosynthesis protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471152	Clo1313_2334	Radical SAM domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471153	Clo1313_2335	Cysteine synthase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471154	Clo1313_2336	extracellular solute-binding protein family 3	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471155	Clo1313_2337	binding-protein-dependent transport systems inner membrane component	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471156	Clo1313_2338	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471157	Clo1313_2339	nitrogenase iron protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	nifH	
+650471158	Clo1313_2340	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471159	Clo1313_2341	purine nucleoside phosphorylase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	deoD	
+650471160	Clo1313_2342	basic membrane lipoprotein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471161	Clo1313_2343	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471162	Clo1313_2344	(Formate-C-acetyltransferase)-activating enzyme	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471163	Clo1313_2345	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471164	Clo1313_2346	inner-membrane translocator	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471165	Clo1313_2347	inner-membrane translocator	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471166	Clo1313_2348	cytidine deaminase (EC 3.5.4.5)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471167	Clo1313_2349	deoxyribose-phosphate aldolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	deoC	
+650471168	Clo1313_2350	two component transcriptional regulator, AraC family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471169	Clo1313_2351	signal transduction histidine kinase, LytS	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471170	Clo1313_2352	binding-protein-dependent transport systems inner membrane component	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471171	Clo1313_2353	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471172	Clo1313_2354	extracellular solute-binding protein family 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471173	Clo1313_2355	transcriptional repressor, CopY family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471174	Clo1313_2356	peptidase M56 BlaR1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471175	Clo1313_2357	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471176	Clo1313_2358	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471177	Clo1313_2359	glycerate kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471178	Clo1313_2361	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471179	Clo1313_2365	PglZ domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471180	Clo1313_2366	SNF2-related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471181	Clo1313_2367	DNA methylase N-4/N-6 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471182	Clo1313_2369	Integrase catalytic region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471183	Clo1313_2370	Protein of unknown function DUF2971	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471184	Clo1313_2371	HhH-GPD family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471185	Clo1313_2372	antitoxin Phd	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471186	Clo1313_2373	HNH endonuclease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471187	Clo1313_2374	NUDIX hydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471188	Clo1313_2375	Integrase catalytic region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471189	Clo1313_2376	Resolvase domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471190	Clo1313_2377	Recombinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471191	Clo1313_2378	Resolvase domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471192	Clo1313_2379	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471193	Clo1313_2380	N-acetylmuramoyl-L-alanine amidase family 2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471194	Clo1313_2381	toxin secretion/phage lysis holin	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471195	Clo1313_2382	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471196	Clo1313_2383	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471197	Clo1313_2384	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471198	Clo1313_2385	phage minor structural protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471199	Clo1313_2386	phage tail component	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471200	Clo1313_2387	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471201	Clo1313_2388	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471202	Clo1313_2389	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471203	Clo1313_2390	phage major tail protein, phi13 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471204	Clo1313_2391	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471205	Clo1313_2392	phage protein, HK97 gp10 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471206	Clo1313_2393	head-tail joining family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471207	Clo1313_2394	Bacteriophage QLRG family, putative DNA packaging	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471208	Clo1313_2395	phage major capsid protein, HK97 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471209	Clo1313_2396	peptidase S14 ClpP	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	clpP2	
+650471210	Clo1313_2397	phage portal protein, HK97 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471211	Clo1313_2398	Terminase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471212	Clo1313_2399	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471213	Clo1313_2400	AIG2 family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471214	Clo1313_2401	Putative amidoligase enzyme	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471215	Clo1313_2402	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471216	Clo1313_2403	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471217	Clo1313_2404	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471218	Clo1313_2405	DNA methylase N-4/N-6 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471219	Clo1313_2406	DNA methylase N-4/N-6 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471220	Clo1313_2407	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471221	Clo1313_2408	HNH endonuclease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471222	Clo1313_2409	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471223	Clo1313_2410	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471224	Clo1313_2411	VRR-NUC domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471225	Clo1313_2412	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471226	Clo1313_2414	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471227	Clo1313_2415	protein of unknown function DUF214	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471228	Clo1313_2416	integral membrane sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471229	Clo1313_2417	two component transcriptional regulator, winged helix family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471230	Clo1313_2418	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471231	Clo1313_2421	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471232	Clo1313_2422	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471233	Clo1313_2423	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471234	Clo1313_2424	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471235	Clo1313_2425	23S rRNA m(5)U-1939 methyltransferase (EC 2.1.1.190)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471236	Clo1313_2426	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471237	Clo1313_2427	transport system permease protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471238	Clo1313_2428	periplasmic binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471239	Clo1313_2429	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471240	Clo1313_2430	Peptidase M23	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471241	Clo1313_2431	protein of unknown function DUF583	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471242	Clo1313_2432	sporulation protein YunB	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471243	Clo1313_2433	penicillin-binding protein, 1A family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471244	Clo1313_2434	protein of unknown function DUF214	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471245	Clo1313_2435	efflux transporter, RND family, MFP subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471246	Clo1313_2436	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	macB	
+650471247	Clo1313_2437	outer membrane efflux protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471248	Clo1313_2438	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471249	Clo1313_2439	glutamate 5-kinase (EC 2.7.2.11)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	proB	
+650471250	Clo1313_2440	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471251	Clo1313_2441	NifU-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471252	Clo1313_2442	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471253	Clo1313_2443	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471254	Clo1313_2444	Rubrerythrin	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471256	Clo1313_2445	protein of unknown function DUF218	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471257	Clo1313_2446	peptidase S16, lon-like protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471258	Clo1313_2447	[SSU ribosomal protein S18P]-alanine acetyltransferase (EC 2.3.1.128)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471259	Clo1313_2448	peptidase M22 glycoprotease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471260	Clo1313_2449	Uncharacterized protein family UPF0079, ATPase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471261	Clo1313_2450	amidohydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471262	Clo1313_2451	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471263	Clo1313_2452	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471264	Clo1313_2453	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471265	Clo1313_2454	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471266	Clo1313_2455	SSU ribosomal protein S9P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rpsI	
+650471267	Clo1313_2456	LSU ribosomal protein L13P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rplM	
+650471268	Clo1313_2457	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471269	Clo1313_2458	DNA integrity scanning, DisA, linker region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	disA	
+650471270	Clo1313_2459	DNA repair protein RadA	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471271	Clo1313_2460	glycoside hydrolase 15-related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471272	Clo1313_2461	glycosyl transferase family 2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471273	Clo1313_2462	ATPase AAA-2 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471274	Clo1313_2463	ATP:guanido phosphotransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	mcsB	
+650471275	Clo1313_2464	UvrB/UvrC protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471276	Clo1313_2465	transcriptional repressor, CtsR	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471277	Clo1313_2467	translation elongation factor G	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471278	Clo1313_2468	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (EC 2.5.1.54)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471279	Clo1313_2469	Prephenate dehydrogenase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471280	Clo1313_2470	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	aroA	
+650471281	Clo1313_2471	CoA-binding domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rex	
+650471282	Clo1313_2472	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471283	Clo1313_2473	Peptidoglycan-binding lysin domain	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471284	Clo1313_2474	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471285	Clo1313_2475	cobalt ABC transporter, inner membrane subunit CbiQ	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471286	Clo1313_2476	cobalamin (vitamin B12) biosynthesis CbiM protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471287	Clo1313_2477	cell wall hydrolase/autolysin	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471288	Clo1313_2478	response regulator receiver modulated diguanylate cyclase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471289	Clo1313_2479	Ig domain protein group 2 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471290	Clo1313_2481	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471291	Clo1313_2482	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471292	Clo1313_2483	RNA polymerase, sigma-24 subunit, ECF subfamily	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471293	Clo1313_2484	peptidase M56 BlaR1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471294	Clo1313_2485	transcriptional repressor, CopY family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471295	Clo1313_2486	Urease accessory protein UreD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ureD	
+650471296	Clo1313_2487	urease accessory protein UreG	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ureG	
+650471297	Clo1313_2488	Urease accessory protein UreF	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ureF	
+650471298	Clo1313_2490	urease, alpha subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ureC	
+650471299	Clo1313_2491	urease, beta subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ureB	
+650471300	Clo1313_2492	urease, gamma subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ureA	
+650471301	Clo1313_2493	urea ABC transporter, ATP-binding protein UrtE	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471302	Clo1313_2494	urea ABC transporter, ATP-binding protein UrtD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471303	Clo1313_2495	urea ABC transporter membrane protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471304	Clo1313_2496	urea ABC transporter, permease protein UrtB	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471305	Clo1313_2497	urea-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471306	Clo1313_2498	two component transcriptional regulator, AraC family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471307	Clo1313_2499	multi-sensor hybrid histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471308	Clo1313_2500	response regulator receiver sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471309	Clo1313_2502	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471310	Clo1313_2503	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471311	Clo1313_2504	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471312	Clo1313_2506	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471313	Clo1313_2507	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471314	Clo1313_2508	transposase mutator type	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471315	Clo1313_2509	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471316	Clo1313_2510	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471317	Clo1313_2511	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471318	Clo1313_2515	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471319	Clo1313_2516	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471320	Clo1313_2518	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471321	Clo1313_2519	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471322	Clo1313_2520	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471323	Clo1313_2521	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471324	Clo1313_2522	transposase IS4 family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471325	Clo1313_2523	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471326	Clo1313_2524	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471327	Clo1313_2525	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471328	Clo1313_2526	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471329	Clo1313_2528	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471330	Clo1313_2529	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471331	Clo1313_2530	glycoside hydrolase family 10	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471332	Clo1313_2531	iron-only hydrogenase maturation protein HydE	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471333	Clo1313_2532	cysteine synthase A	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471334	Clo1313_2533	PP-loop domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471335	Clo1313_2534	O-acetylhomoserine sulfhydrylase (EC 2.5.1.49)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471336	Clo1313_2535	transcriptional regulator, BadM/Rrf2 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471337	Clo1313_2536	transcriptional regulator, BadM/Rrf2 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471338	Clo1313_2537	homoserine O-succinyltransferase (EC 2.3.1.46)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	metA	
+650471339	Clo1313_2538	integral membrane sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471340	Clo1313_2539	two component transcriptional regulator, winged helix family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471341	Clo1313_2540	copper-translocating P-type ATPase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471342	Clo1313_2541	Heavy metal transport/detoxification protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471343	Clo1313_2542	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471344	Clo1313_2543	protein of unknown function DUF1113	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471350	Clo1313_2544	Hsp33 protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	hslO	
+650471351	Clo1313_2545	cold-shock DNA-binding protein family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471352	Clo1313_2546	methylated-DNA/protein-cysteine methyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471353	Clo1313_2547	Methyltransferase type 11	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471354	Clo1313_2548	small acid-soluble spore protein beta	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471355	Clo1313_2549	carboxyl-terminal protease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471356	Clo1313_2550	Peptidase M23	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471357	Clo1313_2551	protein of unknown function DUF214	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471358	Clo1313_2552	cell division ATP-binding protein FtsE	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471359	Clo1313_2553	transcriptional regulator, CdaR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471360	Clo1313_2554	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471361	Clo1313_2555	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	argC	
+650471362	Clo1313_2556	N-acetylglutamate kinase (EC 2.7.2.8)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	argB	
+650471363	Clo1313_2557	type IV pilus assembly PilZ	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471364	Clo1313_2558	acetylornithine aminotransferase apoenzyme (EC 2.6.1.11)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	argD	
+650471365	Clo1313_2559	carbamoyl-phosphate synthase small subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	carA	
+650471366	Clo1313_2560	carbamoyl-phosphate synthase, large subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471367	Clo1313_2561	ornithine carbamoyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	arcB	
+650471368	Clo1313_2562	GCN5-related N-acetyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471369	Clo1313_2563	transposase IS4 family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471370	Clo1313_2564	Dockerin type 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471371	Clo1313_2565	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471372	Clo1313_2567	cell division membrane protein-like protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471373	Clo1313_2568	transcriptional regulator, PadR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471374	Clo1313_2569	metallophosphoesterase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471375	Clo1313_2570	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471376	Clo1313_2572	Serine-type D-Ala-D-Ala carboxypeptidase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471377	Clo1313_2574	transposase mutator type	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471378	Clo1313_2575	Pyridoxal-5'-phosphate-dependent protein beta subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471379	Clo1313_2576	polysaccharide deacetylase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471380	Clo1313_2577	amino acid adenylation domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471381	Clo1313_2578	glycosyl transferase family 28	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471382	Clo1313_2579	glycosyl transferase family 28	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471383	Clo1313_2580	amino acid adenylation domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471384	Clo1313_2581	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471385	Clo1313_2582	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471386	Clo1313_2583	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471387	Clo1313_2584	Carbohydrate binding family 6	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471388	Clo1313_2585	transposase IS200-family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471389	Clo1313_2586	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471390	Clo1313_2587	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471391	Clo1313_2588	Tetratricopeptide TPR_1 repeat-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471392	Clo1313_2589	integral membrane sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471393	Clo1313_2590	two component transcriptional regulator, winged helix family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471394	Clo1313_2591	ATPase, P-type (transporting), HAD superfamily, subfamily IC	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471395	Clo1313_2592	arginine decarboxylase (EC 4.1.1.19)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471396	Clo1313_2593	MgtC/SapB transporter	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471397	Clo1313_2594	stage II sporulation protein R	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471398	Clo1313_2595	transcriptional regulator, PadR-like family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471399	Clo1313_2596	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471400	Clo1313_2597	CTP synthase (EC 6.3.4.2)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	pyrG	
+650471401	Clo1313_2599	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471402	Clo1313_2600	Hedgehog/intein hint domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471403	Clo1313_2601	carboxyl-terminal protease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471404	Clo1313_2602	S-layer domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471405	Clo1313_2603	S-layer domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471406	Clo1313_2604	Zn-dependent hydrolase of the beta-lactamase fold-like protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471407	Clo1313_2605	Abortive infection protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471408	Clo1313_2606	arginyl-tRNA synthetase (EC 6.1.1.19)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	argS	
+650471409	Clo1313_2607	Domain of unknown function DUF1934	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471410	Clo1313_2608	glutamate racemase (EC 5.1.1.3)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	murI	
+650471411	Clo1313_2609	D-alanine/D-alanine ligase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ddl	
+650471412	Clo1313_2610	magnesium transporter	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471413	Clo1313_2611	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471414	Clo1313_2612	RDD domain containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471415	Clo1313_2613	regulatory protein, FmdB family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471416	Clo1313_2614	Lipoprotein LpqB, GerMN domain	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471417	Clo1313_2615	deoxyribose-phosphate aldolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	deoC	
+650471418	Clo1313_2616	protein of unknown function DUF458	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471419	Clo1313_2617	FAD-dependent pyridine nucleotide-disulfide oxidoreductase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471420	Clo1313_2618	FAD-dependent pyridine nucleotide-disulfide oxidoreductase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471421	Clo1313_2619	alkyl hydroperoxide reductase/ Thiol specific antioxidant/ Mal allergen	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471422	Clo1313_2620	cytochrome c biogenesis protein transmembrane region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471423	Clo1313_2621	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471424	Clo1313_2622	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471425	Clo1313_2623	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471426	Clo1313_2624	spore cortex-lytic enzyme	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471427	Clo1313_2625	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471428	Clo1313_2626	Tex-like protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471429	Clo1313_2627	1-phosphofructokinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471430	Clo1313_2628	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471431	Clo1313_2629	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471432	Clo1313_2630	UV-damage endonuclease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471433	Clo1313_2631	Methyltransferase type 11	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471434	Clo1313_2632	Peptidoglycan-binding domain 1 protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471435	Clo1313_2633	nucleotidyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471436	Clo1313_2634	pseudouridine synthase, RluA family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471437	Clo1313_2635	glycoside hydrolase family 10	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	xynZ	
+650471438	Clo1313_2637	alkyl hydroperoxide reductase, F subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471439	Clo1313_2638	peroxiredoxin	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471440	Clo1313_2639	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471441	Clo1313_2640	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471442	Clo1313_2641	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471443	Clo1313_2642	cell division protein FtsK/SpoIIIE	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471444	Clo1313_2643	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471445	Clo1313_2644	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471446	Clo1313_2645	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471447	Clo1313_2646	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471448	Clo1313_2647	Tetratricopeptide TPR_1 repeat-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471449	Clo1313_2648	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471450	Clo1313_2649	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471451	Clo1313_2650	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471452	Clo1313_2651	Hedgehog/intein hint domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471453	Clo1313_2653	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471454	Clo1313_2654	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471455	Clo1313_2655	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471456	Clo1313_2657	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471457	Clo1313_2658	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471458	Clo1313_2659	transposase IS116/IS110/IS902 family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471459	Clo1313_2660	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471460	Clo1313_2661	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471461	Clo1313_2663	transposase IS3/IS911 family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471462	Clo1313_2664	transposase, IS4 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471463	Clo1313_2665	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471464	Clo1313_2666	Hedgehog/intein hint domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471465	Clo1313_2667	Bifunctional DNA primase/polymerase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471466	Clo1313_2669	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471467	Clo1313_2670	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471468	Clo1313_2671	Hedgehog/intein hint domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471469	Clo1313_2672	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471470	Clo1313_2675	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471471	Clo1313_2677	Domain of unknown function DUF1910	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471472	Clo1313_2678	Hedgehog/intein hint domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471473	Clo1313_2680	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471474	Clo1313_2682	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471475	Clo1313_2683	protein of unknown function DUF1557	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471476	Clo1313_2684	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471477	Clo1313_2686	transposase IS200-family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471478	Clo1313_2687	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471479	Clo1313_2688	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471480	Clo1313_2689	Serine/threonine-protein kinase-like domain	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471481	Clo1313_2691	amidohydrolase 2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471482	Clo1313_2693	Dockerin type 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471483	Clo1313_2694	DNA helicase/exodeoxyribonuclease V, subunit A (EC 3.1.11.5)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	addA	
+650471484	Clo1313_2695	DNA helicase/exodeoxyribonuclease V, subunit B (EC 3.1.11.5)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	addB	
+650471485	Clo1313_2696	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471486	Clo1313_2698	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471487	Clo1313_2700	Integrase catalytic region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471488	Clo1313_2702	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471489	Clo1313_2703	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471490	Clo1313_2704	Hedgehog/intein hint domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471491	Clo1313_2705	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471492	Clo1313_2706	protein of unknown function DUF324	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471493	Clo1313_2707	CRISPR-associated protein, Csx7 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471494	Clo1313_2708	CRISPR-associated protein, Csx7 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471495	Clo1313_2709	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471496	Clo1313_2710	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471497	Clo1313_2711	protein of unknown function DUF324	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471498	Clo1313_2712	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471499	Clo1313_2713	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471500	Clo1313_2714	CRISPR-associated protein, TM1812 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471501	Clo1313_2715	Appr-1-p processing domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471504	Clo1313_2716	RNA polymerase, sigma 30 subunit, SigH	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471505	Clo1313_2717	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471506	Clo1313_2718	RNA methyltransferase, TrmH family, group 3	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471507	Clo1313_2719	ribonuclease III	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	mrnC	
+650471508	Clo1313_2720	GerA spore germination protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471509	Clo1313_2721	spore germination protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471510	Clo1313_2722	germination protein, Ger(x)C family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471511	Clo1313_2723	cysteinyl-tRNA synthetase (EC 6.1.1.16)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	cysS	
+650471512	Clo1313_2724	serine O-acetyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471513	Clo1313_2725	membrane protein of unknown function	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471515	Clo1313_2726	DNA-(apurinic or apyrimidinic site) lyase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471516	Clo1313_2727	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471517	Clo1313_2728	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471518	Clo1313_2729	sporulation protein YtxC	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471519	Clo1313_2730	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471520	Clo1313_2731	amidohydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471521	Clo1313_2732	protein of unknown function DUF378	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471522	Clo1313_2733	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471523	Clo1313_2734	protein of unknown function DUF28	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471524	Clo1313_2735	integral membrane sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471525	Clo1313_2736	CoA-binding domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471526	Clo1313_2737	Uncharacterized protein family UPF0029, Impact, N-terminal protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471527	Clo1313_2738	signal peptidase I	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471528	Clo1313_2739	NUDIX hydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471529	Clo1313_2740	GTP-binding proten HflX	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	hflX	
+650471530	Clo1313_2741	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471531	Clo1313_2742	DNA-directed DNA polymerase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	dinB	
+650471532	Clo1313_2743	deoxyuridine 5'-triphosphate nucleotidohydrolase Dut	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471533	Clo1313_2744	peptidase U32	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471534	Clo1313_2745	phosphoglycerate mutase (EC 5.4.2.1)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471535	Clo1313_2746	cell division protein ZapA	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471536	Clo1313_2747	cellulose 1,4-beta-cellobiosidase (EC 3.2.1.91)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	celS	
+650471537	Clo1313_2748	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471538	Clo1313_2749	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471539	Clo1313_2750	dimethyladenosine transferase (EC 2.1.1.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rsmA	
+650471540	Clo1313_2751	3D domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471541	Clo1313_2752	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471542	Clo1313_2753	hydrolase, TatD family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471543	Clo1313_2754	methionyl-tRNA synthetase (EC 6.1.1.10)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	metG	
+650471544	Clo1313_2755	Protein of unknown function DUF2600	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471545	Clo1313_2756	nucleoside recognition domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471546	Clo1313_2757	nucleoside recognition domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471547	Clo1313_2758	transcriptional regulator, AbrB family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471548	Clo1313_2759	Uroporphyrin-III C/tetrapyrrole (Corrin/Porphyrin) methyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rsmI	
+650471549	Clo1313_2760	Methyltransferase type 11	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471550	Clo1313_2761	4Fe-4S ferredoxin iron-sulfur binding domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471551	Clo1313_2762	PSP1 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471552	Clo1313_2763	AAA ATPase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471553	Clo1313_2764	protein of unknown function DUF327	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471554	Clo1313_2765	thymidylate kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471555	Clo1313_2766	arginine decarboxylase (EC 4.1.1.19)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471556	Clo1313_2767	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471557	Clo1313_2768	Beta propeller domain	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471558	Clo1313_2769	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471559	Clo1313_2770	protein of unknown function DUF214	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471560	Clo1313_2771	two component transcriptional regulator, winged helix family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471561	Clo1313_2772	integral membrane sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471562	Clo1313_2773	protein of unknown function DUF77	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471563	Clo1313_2774	binding-protein-dependent transport systems inner membrane component	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471564	Clo1313_2775	NMT1/THI5 like domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471565	Clo1313_2776	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471566	Clo1313_2777	glycoside hydrolase family 10	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471567	Clo1313_2778	RNA polymerase sigma-I factor	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471568	Clo1313_2779	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471569	Clo1313_2780	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471570	Clo1313_2781	Trypanosome RHS	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471571	Clo1313_2782	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471572	Clo1313_2783	binding-protein-dependent transport systems inner membrane component	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471573	Clo1313_2784	binding-protein-dependent transport systems inner membrane component	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471574	Clo1313_2785	ATPase associated with various cellular activities AAA_3	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471575	Clo1313_2786	extracellular solute-binding protein family 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471576	Clo1313_2788	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471577	Clo1313_2789	Protein of unknown function DUF2089	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471578	Clo1313_2790	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471579	Clo1313_2791	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471580	Clo1313_2793	Carbohydrate binding family 6	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471581	Clo1313_2794	glycoside hydrolase family 43	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471582	Clo1313_2795	alpha-L-arabinofuranosidase B	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471583	Clo1313_2796	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471584	Clo1313_2797	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471585	Clo1313_2798	metal-dependent phosphohydrolase HD sub domain	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471586	Clo1313_2800	DNA replication and repair protein RecR	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	recR	
+650471587	Clo1313_2801	Uncharacterized protein family UPF0133	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471588	Clo1313_2802	DNA polymerase III, subunits gamma and tau	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471590	Clo1313_2804	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471591	Clo1313_2805	glycoside hydrolase family 5	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471592	Clo1313_2806	Carbohydrate-binding CenC domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471593	Clo1313_2807	amine oxidase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471594	Clo1313_2808	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471595	Clo1313_2809	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471596	Clo1313_2810	GtrA family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471597	Clo1313_2811	Methyltransferase type 11	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471598	Clo1313_2812	S-layer domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471599	Clo1313_2813	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471600	Clo1313_2814	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471601	Clo1313_2815	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471602	Clo1313_2816	Spore coat protein CotH	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471603	Clo1313_2817	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471604	Clo1313_2818	putative autoinducer prepeptide	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471605	Clo1313_2819	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471606	Clo1313_2820	peptidase C26	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471607	Clo1313_2821	anti-sigma-factor antagonist	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471608	Clo1313_2822	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471609	Clo1313_2823	Rubredoxin-type Fe(Cys)4 protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471610	Clo1313_2824	sporulation protein YyaC	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471611	Clo1313_2825	putative PAS/PAC sensor protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471612	Clo1313_2826	glucosyl hydrolase family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471613	Clo1313_2827	Propeptide PepSY amd peptidase M4	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471614	Clo1313_2828	metallophosphoesterase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471615	Clo1313_2829	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471616	Clo1313_2830	type III restriction protein res subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471617	Clo1313_2831	LSU ribosomal protein L31P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rpmE	
+650471618	Clo1313_2832	transcription termination factor Rho	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rho	
+650471619	Clo1313_2833	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471620	Clo1313_2834	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471621	Clo1313_2835	Abortive infection protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471622	Clo1313_2836	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471623	Clo1313_2837	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471624	Clo1313_2838	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471625	Clo1313_2839	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471626	Clo1313_2840	acyltransferase 3	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471627	Clo1313_2841	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471629	Clo1313_2842	pectate disaccharide-lyase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471630	Clo1313_2843	Pectate lyase/Amb allergen	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471632	Clo1313_2844	Cl- channel voltage-gated family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471634	Clo1313_2845	PP-loop domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471635	Clo1313_2846	Ig domain protein group 2 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471636	Clo1313_2847	UTP-glucose-1-phosphate uridylyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471637	Clo1313_2848	ribonuclease BN	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471638	Clo1313_2849	SSU ribosomal protein S18P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rpsR	
+650471639	Clo1313_2850	single-strand binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471640	Clo1313_2851	SSU ribosomal protein S6P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rpsF	
+650471641	Clo1313_2852	diguanylate cyclase with GAF sensor	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471642	Clo1313_2853	N-acetylglucosamine 6-phosphate deacetylase (EC 3.5.1.25)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471643	Clo1313_2854	1,4-alpha-glucan branching enzyme	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	glgB	
+650471644	Clo1313_2855	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471645	Clo1313_2856	Carbohydrate binding family 6	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471646	Clo1313_2857	glycoside hydrolase family 43	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471647	Clo1313_2858	Carbohydrate binding family 6	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471648	Clo1313_2859	Carbohydrate binding family 6	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471649	Clo1313_2860	glycoside hydrolase family 43	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471650	Clo1313_2861	glycoside hydrolase family 2 sugar binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471651	Clo1313_2862	HNH nuclease	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471652	Clo1313_2863	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471653	Clo1313_2864	transcriptional regulator, MerR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471654	Clo1313_2865	protein of unknown function DUF214	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471655	Clo1313_2866	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471656	Clo1313_2867	histidine kinase (EC 2.7.13.3)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471657	Clo1313_2868	two component transcriptional regulator, winged helix family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471658	Clo1313_2869	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471659	Clo1313_2870	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471660	Clo1313_2871	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471661	Clo1313_2872	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471662	Clo1313_2873	transposase (DDE domain)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471663	Clo1313_2874	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471664	Clo1313_2875	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471665	Clo1313_2876	GTP cyclohydrolase I	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	folE	
+650471666	Clo1313_2877	cyanophycin synthetase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471667	Clo1313_2878	cyanophycinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471668	Clo1313_2879	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471669	Clo1313_2880	isoaspartyl dipeptidase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471670	Clo1313_2881	transcriptional repressor, LexA family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471671	Clo1313_2882	3-isopropylmalate dehydrogenase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	leuB	
+650471672	Clo1313_2883	3-isopropylmalate dehydratase, small subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	leuD	
+650471673	Clo1313_2884	3-isopropylmalate dehydratase, large subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	leuC	
+650471674	Clo1313_2885	transcriptional regulator, AraC family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471675	Clo1313_2886	Protein of unknown function DUF2179	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471676	Clo1313_2887	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471677	Clo1313_2888	Mg2 transporter protein CorA family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471678	Clo1313_2889	FlgN family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471679	Clo1313_2890	flagellar protein FliS	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471680	Clo1313_2891	flagellar hook-associated 2 domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471681	Clo1313_2892	flagellar protein FlaG protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471682	Clo1313_2893	NAD-dependent epimerase/dehydratase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471683	Clo1313_2894	UDP-4-keto-6-deoxy-N-acetylglucosamine 4-aminotransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471684	Clo1313_2895	pseudaminic acid biosynthesis-associated protein PseG	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471685	Clo1313_2896	LmbE family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471686	Clo1313_2897	methionyl-tRNA formyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471687	Clo1313_2898	methylmalonyl-CoA epimerase (EC 5.1.99.1)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471688	Clo1313_2899	FkbH like protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471689	Clo1313_2900	phosphopantetheine-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471690	Clo1313_2901	pseudaminic acid biosynthesis N-acetyl transferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471691	Clo1313_2902	N-acetylneuraminate synthase (EC 2.5.1.56)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471692	Clo1313_2903	acylneuraminate cytidylyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471693	Clo1313_2904	pseudaminic acid biosynthesis-associated methylase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471694	Clo1313_2905	polysaccharide biosynthesis protein CapD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471695	Clo1313_2906	protein of unknown function DUF115	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471696	Clo1313_2907	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471697	Clo1313_2908	protein of unknown function DUF115	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471698	Clo1313_2909	flagellin domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471699	Clo1313_2910	flagellin domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471700	Clo1313_2911	Aldehyde Dehydrogenase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471701	Clo1313_2912	carbon storage regulator, CsrA	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	csrA	
+650471702	Clo1313_2913	protein of unknown function DUF180	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	fliW	
+650471703	Clo1313_2914	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471704	Clo1313_2915	flagellar hook-associated protein 3	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471705	Clo1313_2916	flagellar hook-associated protein FlgK	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471706	Clo1313_2917	flagellar hook-associated protein FlgK	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471707	Clo1313_2918	FlgN family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471708	Clo1313_2919	anti-sigma-28 factor, FlgM family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471709	Clo1313_2920	regulatory protein, MerR	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471710	Clo1313_2921	phosphoribosyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471711	Clo1313_2922	helicase, RecD/TraA family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	recD2	
+650471712	Clo1313_2923	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471713	Clo1313_2924	methionine adenosyltransferase (EC 2.5.1.6)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	metK	
+650471714	Clo1313_2925	Thioesterase superfamily	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471715	Clo1313_2926	ATP-dependent metalloprotease FtsH	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	ftsH	
+650471716	Clo1313_2927	hypoxanthine phosphoribosyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471717	Clo1313_2928	tRNA(Ile)-lysidine synthetase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	tilS	
+650471718	Clo1313_2929	replicative DNA helicase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471719	Clo1313_2930	LSU ribosomal protein L9P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rplI	
+650471720	Clo1313_2931	phosphoesterase RecJ domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471721	Clo1313_2932	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471722	Clo1313_2933	Prephenate dehydratase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	pheA	
+650471723	Clo1313_2934	V/A-type H+-transporting ATPase subunit G/H	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471724	Clo1313_2935	V-type ATPase 116 kDa subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471725	Clo1313_2936	H+transporting two-sector ATPase C subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471726	Clo1313_2937	H+transporting two-sector ATPase E subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	atpE	
+650471727	Clo1313_2938	H+transporting two-sector ATPase C (AC39) subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471728	Clo1313_2939	Vacuolar H+transporting two-sector ATPase F subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471729	Clo1313_2940	H+transporting two-sector ATPase alpha/beta subunit central region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	atpA	
+650471730	Clo1313_2941	H+transporting two-sector ATPase alpha/beta subunit central region	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	atpB	
+650471731	Clo1313_2942	V-type ATPase, D subunit	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	atpD	
+650471732	Clo1313_2943	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471733	Clo1313_2944	Dockerin type 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471734	Clo1313_2945	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471735	Clo1313_2946	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471736	Clo1313_2947	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471737	Clo1313_2949	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471738	Clo1313_2950	AAA ATPase central domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471739	Clo1313_2951	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471740	Clo1313_2952	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471741	Clo1313_2953	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471742	Clo1313_2954	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471743	Clo1313_2955	response regulator receiver modulated CheB methylesterase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	cheB	
+650471744	Clo1313_2956	MCP methyltransferase, CheR-type	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471745	Clo1313_2957	methyl-accepting chemotaxis sensory transducer	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471746	Clo1313_2958	CheA signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471747	Clo1313_2959	CheW protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471748	Clo1313_2961	integrase family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471749	Clo1313_2962	transcriptional regulator, AraC family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471750	Clo1313_2963	PEBP family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471751	Clo1313_2964	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471752	Clo1313_2965	ABC transporter related protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471753	Clo1313_2966	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471754	Clo1313_2967	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471755	Clo1313_2968	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471756	Clo1313_2969	CRISPR-associated protein Cas2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	cas2	
+650471757	Clo1313_2970	CRISPR-associated protein Cas1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	cas1	
+650471758	Clo1313_2971	CRISPR-associated exonuclease, Cas4 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471759	Clo1313_2972	CRISPR-associated helicase, Cas3 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471760	Clo1313_2973	CRISPR-associated protein, Cas5 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471761	Clo1313_2974	CRISPR-associated autoregulator, Cst2 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471762	Clo1313_2975	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471763	Clo1313_2976	CRISPR-associated protein, Cas6 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471764	Clo1313_2977	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471765	Clo1313_2978	Undecaprenyl-diphosphatase (EC 3.6.1.27)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	uppP	
+650471766	Clo1313_2979	MATE efflux family protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471767	Clo1313_2980	hemerythrin-like metal-binding protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471768	Clo1313_2981	CheC domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471769	Clo1313_2982	Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471770	Clo1313_2983	copper amine oxidase-like domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471772	Clo1313_2984	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471773	Clo1313_2985	FMN-binding domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471774	Clo1313_2986	protein of unknown function DUF218	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471775	Clo1313_2987	protein of unknown function DUF163	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rlmH	
+650471776	Clo1313_2988	beta-lactamase domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471777	Clo1313_2989	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	murA	
+650471778	Clo1313_2990	Protein of unknown function YycH	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471779	Clo1313_2991	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471780	Clo1313_2992	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471781	Clo1313_2993	multi-sensor signal transduction histidine kinase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471782	Clo1313_2994	two component transcriptional regulator, winged helix family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471783	Clo1313_2995	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471784	Clo1313_2996	putative transcriptional regulator, TetR family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471785	Clo1313_2997	polysaccharide biosynthesis protein CapD	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471786	Clo1313_2998	polysaccharide biosynthesis protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471787	Clo1313_2999	glycosyl transferase group 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471788	Clo1313_3000	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471789	Clo1313_3001	glycosyl transferase group 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471790	Clo1313_3002	glycosyl transferase group 1	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471791	Clo1313_3003	nucleotide sugar dehydrogenase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471792	Clo1313_3004	glycosyl transferase family 2	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471793	Clo1313_3005	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471794	Clo1313_3006	Acetyltransferase, GNAT family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471795	Clo1313_3007	Undecaprenyl-phosphate galactose phosphotransferase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471796	Clo1313_3008	Glutamine--scyllo-inositol transaminase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471797	Clo1313_3009	O-antigen polymerase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471798	Clo1313_3010	lipopolysaccharide biosynthesis protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471799	Clo1313_3011	Ig domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471800	Clo1313_3012	small acid-soluble spore protein F (minor alpha/beta-type SASP)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471801	Clo1313_3013	cell wall hydrolase SleB	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471802	Clo1313_3014	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471803	Clo1313_3015	putative signal transduction protein with CBS domains	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471804	Clo1313_3016	Ig domain protein group 1 domain protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471805	Clo1313_3017	nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471806	Clo1313_3018	L-aspartate oxidase (EC 1.4.3.16)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471807	Clo1313_3019	quinolinate synthetase (EC 2.5.1.72)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	nadA	
+650471808	Clo1313_3020	hypothetical protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471809	Clo1313_3021	Accessory gene regulator B	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471814	Clo1313_3022	metal dependent phosphohydrolase	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471815	Clo1313_3023	endoglucanase Cel9U	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471816	Clo1313_3024	DNA gyrase subunit A (EC 5.99.1.3)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	gyrA	
+650471817	Clo1313_3025	parB-like partition protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471818	Clo1313_3026	16S rRNA m(7)G-527 methyltransferase (EC 2.1.1.170)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rsmG	
+650471819	Clo1313_3027	glucose inhibited division protein A	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	mnmG	
+650471820	Clo1313_3028	tRNA modification GTPase trmE	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	mnmE	
+650471821	Clo1313_3029	single-stranded nucleic acid binding R3H domain-containing protein	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471822	Clo1313_3030	membrane protein insertase, YidC/Oxa1 family	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471823	Clo1313_3031	protein of unknown function DUF37	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650471824	Clo1313_3032	ribonuclease P protein component (EC 3.1.26.5)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rnpA	
+650471825	Clo1313_3033	LSU ribosomal protein L34P	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4	rpmH	
+650641643	Clo1313_0045	Monogalactosyldiacylglycerol synthase (EC 2.4.1.46)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641644	Clo1313_0069		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641645	Clo1313_0086		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641646	Clo1313_0130		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641647	Clo1313_0158		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641648	Clo1313_0212		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641649	Clo1313_0257		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641650	Clo1313_0263		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641651	Clo1313_0267		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641652	Clo1313_0345		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641653	Clo1313_0404		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641654	Clo1313_0504		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641655	Clo1313_0506		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641656	Clo1313_0507		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641657	Clo1313_0508		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641658	Clo1313_0533		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641659	Clo1313_0560		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641660	Clo1313_0561		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641661	Clo1313_0607		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641662	Clo1313_0608		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641663	Clo1313_0687		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641664	Clo1313_0695		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641665	Clo1313_0763		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641666	Clo1313_0768		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641667	Clo1313_0774		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641668	Clo1313_0775		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641669	Clo1313_0776		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641670	Clo1313_0798		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641671	Clo1313_0806		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641672	Clo1313_0808		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641673	Clo1313_0810		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641674	Clo1313_0854		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641675	Clo1313_1061		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641676	Clo1313_1062		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641677	Clo1313_1063		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641678	Clo1313_1064		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641679	Clo1313_1247		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641680	Clo1313_1403		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641681	Clo1313_1562		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641682	Clo1313_1639		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641683	Clo1313_1640		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641684	Clo1313_1641		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641685	Clo1313_1646		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641686	Clo1313_1779		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641687	Clo1313_1836		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641688	Clo1313_1837		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641689	Clo1313_1839		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641690	Clo1313_1863		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641691	Clo1313_1893		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641692	Clo1313_1919		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641693	Clo1313_1932		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641694	Clo1313_1934		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641695	Clo1313_1941		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641696	Clo1313_1991		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641697	Clo1313_2003		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641698	Clo1313_2007		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641699	Clo1313_2025		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641700	Clo1313_2037	aspartate-ammonia ligase (EC 6.3.1.1)	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641701	Clo1313_2039		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641702	Clo1313_2158		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641703	Clo1313_2205		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641704	Clo1313_2206		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641705	Clo1313_2213		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641706	Clo1313_2218		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641707	Clo1313_2220		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641708	Clo1313_2227		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641709	Clo1313_2230		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641710	Clo1313_2236		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641711	Clo1313_2268		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641712	Clo1313_2277		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641713	Clo1313_2281		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641714	Clo1313_2295		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641715	Clo1313_2297		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641716	Clo1313_2308		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641717	Clo1313_2313		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641718	Clo1313_2315		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641719	Clo1313_2316		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641720	Clo1313_2320		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641721	Clo1313_2360		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641722	Clo1313_2362		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641723	Clo1313_2363		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641724	Clo1313_2364		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641725	Clo1313_2368		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641726	Clo1313_2413		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641727	Clo1313_2419		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641728	Clo1313_2420		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641729	Clo1313_2466		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641730	Clo1313_2480		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		
+650641731	Clo1313_2489		650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	4		

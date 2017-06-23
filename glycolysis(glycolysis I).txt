@@ -1,0 +1,15 @@
+Gene ID	Locus Tag	Gene Product Name	Genome ID	Genome Name	
+650468924	Clo1313_0080	Phosphoglycerate mutase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469654	Clo1313_0813	Phosphoglycerate mutase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469807	Clo1313_0966	phosphoglycerate mutase (EC 5.4.2.1)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469838	Clo1313_0997	6-phosphofructokinase (EC 2.7.1.11)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470113	Clo1313_1271	Phosphoglycerate mutase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470361	Clo1313_1517	Phosphoglycerate mutase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470715	Clo1313_1875	fructose-bisphosphate aldolase (EC 4.1.2.13)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470716	Clo1313_1876	phosphofructokinase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470851	Clo1313_2015	Glucose-6-phosphate isomerase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470925	Clo1313_2090	enolase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470927	Clo1313_2092	phosphoglycerate mutase (EC 5.4.2.1)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470928	Clo1313_2093	triosephosphate isomerase (EC 5.3.1.1)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470929	Clo1313_2094	phosphoglycerate kinase (EC 2.7.2.3)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470930	Clo1313_2095	glyceraldehyde-3-phosphate dehydrogenase, type I  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	

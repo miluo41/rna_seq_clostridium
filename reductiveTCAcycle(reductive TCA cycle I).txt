@@ -1,0 +1,17 @@
+Gene ID	Locus Tag	Gene Product Name	Genome ID	Genome Name	
+650468865	Clo1313_0020	pyruvate/ketoisovalerate oxidoreductase, gamma subunit  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650468866	Clo1313_0021	pyruvate ferredoxin/flavodoxin oxidoreductase, delta subunit  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650468867	Clo1313_0022	pyruvate flavodoxin/ferredoxin oxidoreductase domain protein  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650468868	Clo1313_0023	thiamine pyrophosphate TPP-binding domain-containing protein  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469226	Clo1313_0382	pyruvate ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.1)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469227	Clo1313_0383	pyruvate ferredoxin/flavodoxin oxidoreductase, delta subunit  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469228	Clo1313_0384	pyruvate flavodoxin/ferredoxin oxidoreductase domain protein  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469229	Clo1313_0385	pyruvate ferredoxin oxidoreductase, beta subunit (EC 1.2.7.1)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469481	Clo1313_0640	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, alpha subunit  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469482	Clo1313_0641	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469524	Clo1313_0673	pyruvate ferredoxin/flavodoxin oxidoreductase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470198	Clo1313_1353	4Fe-4S ferredoxin iron-sulfur binding domain protein  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470199	Clo1313_1354	pyruvate flavodoxin/ferredoxin oxidoreductase domain protein  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470200	Clo1313_1355	thiamine pyrophosphate TPP-binding domain-containing protein  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470201	Clo1313_1356	2-oxoglutarate ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.3)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470782	Clo1313_1944	isocitrate dehydrogenase (NADP) (EC 1.1.1.42)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	

@@ -1,0 +1,7 @@
+Gene ID	Locus Tag	Gene Product Name	Genome ID	Genome Name	
+650468944	Clo1313_0099	acetolactate synthase, large subunit (EC 2.2.1.6)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650468945	Clo1313_0100	acetolactate synthase, small subunit (EC 2.2.1.6)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650468946	Clo1313_0101	ketol-acid reductoisomerase (EC 1.1.1.86)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469149	Clo1313_0304	dihydroxy-acid dehydratase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650469150	Clo1313_0305	acetolactate synthase, large subunit (EC 2.2.1.6)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
+650470209	Clo1313_1364	branched-chain amino acid aminotransferase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	

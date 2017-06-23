@@ -1,0 +1,134 @@
+=====================
+ PROJECT INFORMATION 
+=====================
+Scientific Program: Microbial
+Organism Name: Clostridium thermocellum DSM1313
+Principal Investigator: James Liao
+Proposal ID: 503258
+Sequencing Project ID: 1145452,1145453
+Final Deliverable Project ID: 1145436,1145438
+Proposal Name: Genome sequencing and expression profiling of engineered isobutanol-producing Clostridium thermocellum strains
+Sequencing Project Name: Clostridium thermocellum DSM1313 wild-type transcriptome,Clostridium thermocellum DSM1313 CT27-185 transcriptome
+
+=====================
+ SAMPLE SUMMARY      
+=====================
+1=libraryName	2=SampleId	3=rawReads	4=filteredReads	5=sampleName	6=conditionNumber	7=sequencerType	8=runType	9=fileUsed
+BUBUG	147634	2211354	2207474	LM-2	1	MiSeq	2x151	11519.1.209371.ACTGA.filter-RNA.fastq.gz
+BUBUH	147635	2276050	2272820	LM-3	1	MiSeq	2x151	11519.1.209371.ATTCC.filter-RNA.fastq.gz
+BUBUC	147633	2327718	2324380	LM-1	1	MiSeq	2x151	11519.1.209371.GAGTG.filter-RNA.fastq.gz
+BUBUN	147639	1905222	1901516	LM-7	2	MiSeq	2x151	11519.1.209371.ATCAC.filter-RNA.fastq.gz
+BUBUP	147641	2147564	2142764	LM-9	2	MiSeq	2x151	11519.1.209371.TTAGG.filter-RNA.fastq.gz
+BUBUO	147640	2325812	2320656	LM-8	2	MiSeq	2x151	11519.1.209371.CGATG.filter-RNA.fastq.gz
+
+=====================
+MAPPING STATISTICS
+=====================
+1=libraryName	2=totalFragments	3=mappedFragments	4=assignedFragments	5=unassignedAmbiguous	6=unassignedNoFeatures	7=unassignedSecondaryHits	8=ratioStrandedness
+BUBUG	1103737	1080580	761113	21155	298312	0	0.9811
+BUBUH	1136410	1117376	783818	24932	308626	0	0.9870
+BUBUC	1162190	1143014	826085	27118	289811	0	0.9866
+BUBUN	950758	934236	617176	15084	301976	0	0.9824
+BUBUP	1071382	1049901	737204	18942	293755	0	0.9838
+BUBUO	1160328	1137899	801880	21233	314786	0	0.9850
+
+=====================
+ RELEASE FILES       
+=====================
+Portal:              
+   Data available via project portal:
+   http://genome.jgi.doe.gov/Genseqthestrains/Genseqthestrains.download.html
+   Note: If you have problems logging in, please contact your Project Manager.          
+
+
+Description of each file:
+
+Library BUBUC: 
+BAM file: 11519.1.209371.GAGTG.filter-RNA-genome_sorted.bam
+README file: 11519.1.209371.GAGTG.filter-RNA-genome_sorted.bam.readme
+Input reads fastq: 11519.1.209371.GAGTG.filter-RNA.fastq.gz
+
+Library BUBUG: 
+BAM file: 11519.1.209371.ACTGA.filter-RNA-genome_sorted.bam
+README file: 11519.1.209371.ACTGA.filter-RNA-genome_sorted.bam.readme
+Input reads fastq: 11519.1.209371.ACTGA.filter-RNA.fastq.gz
+
+Library BUBUH: 
+BAM file: 11519.1.209371.ATTCC.filter-RNA-genome_sorted.bam
+README file: 11519.1.209371.ATTCC.filter-RNA-genome_sorted.bam.readme
+Input reads fastq: 11519.1.209371.ATTCC.filter-RNA.fastq.gz
+
+Library BUBUN: 
+BAM file: 11519.1.209371.ATCAC.filter-RNA-genome_sorted.bam
+README file: 11519.1.209371.ATCAC.filter-RNA-genome_sorted.bam.readme
+Input reads fastq: 11519.1.209371.ATCAC.filter-RNA.fastq.gz
+
+Library BUBUO: 
+BAM file: 11519.1.209371.CGATG.filter-RNA-genome_sorted.bam
+README file: 11519.1.209371.CGATG.filter-RNA-genome_sorted.bam.readme
+Input reads fastq: 11519.1.209371.CGATG.filter-RNA.fastq.gz
+
+Library BUBUP: 
+BAM file: 11519.1.209371.TTAGG.filter-RNA-genome_sorted.bam
+README file: 11519.1.209371.TTAGG.filter-RNA-genome_sorted.bam.readme
+Input reads fastq: 11519.1.209371.TTAGG.filter-RNA.fastq.gz
+
+Raw gene counts: raw_counts.txt
+Normalized gene counts: normalized_counts.txt
+File information: LIBRARIES.txt
+Heatmap: replicate_analysis_heatmap.pdf
+Replicate analysis: replicate_analysis.txt
+
+
+=====================
+ PROCESSING METHODS  
+=====================
+Library Creation
+----------------
+Stranded RNASeq library(s) were created and quantified by qPCR.
+Sequencing was performed using an Illumina instrument.
+
+Read preprocessing and filtering:
+-------------------
+Raw fastq file reads were filtered and trimmed resulting in the filtered fastq file (*filter-RNA.fastq.gz files).
+BBDuk [1] was used to remove contaminants, trim reads that contained adapter sequence and right quality trim reads where quality drops to 0.
+Using BBDuk, raw reads were evaluated for artifact sequence by kmer matching (kmer=25), allowing 1 mismatch and detected artifact was trimmed from the 3' end of the reads.  RNA spike-in reads and PhiX reads were removed. BBDuk was used to remove reads that contained 1 or more 'N' bases, had an average quality score across the read less than 10 or had a minimum length <= 51 bp or 33% of the full read length.  Reads mapped with BBMap [2] to masked human, cat, dog and mouse references at 93% identity were removed.  Reads aligned to common microbial contaminants were also removed.  Ribosomal RNA reads were also removed.
+The "RNA" suffix in the filtered fastq file names means the files were filtered using the transcriptome filtering options.
+
+Read Alignment and Counting
+---------------------------
+The reads from each library were aligned to the reference genome using BBMap [2] with only unique mappings allowed (BAMs/ directory). If a read mapped to more than one location it was ignored. featureCounts [3] was used to generate the raw gene counts (raw_counts.txt file).  Raw gene counts were used to evaluate the level of correlation between biological samples using Pearson's correlation (replicate_analysis.txt, replicate_analysis_heatmap.pdf). Counts refer to fragments, for example if the library was a paired end run where both reads aligned to the same feature/gene in the reference genome then it would be represented as a count of 1 in the raw gene counts.
+
+Genome Reference
+---------------------------
+The IMG Taxonoid used for retrieving the genome reference (fasta) and gff3 file for BBMap alignment is: 650377924
+For details on the commands used, please see the README files.
+
+
+
+
+Normalization used
+---------------------------
+The raw gene counts were normalized to adjust for the length of each gene and total number of reads mapped for each library. The normalization formula used:
+n = ( r / ( l / 1000 ) ) / ( t / 1000000 )
+n = normalized read count for gene G for library L
+r = raw read count for gene G for library L
+l = gene G length
+t = total reads mapped for library L
+
+
+
+References
+----------
+1. BBDuk: https://sourceforge.net/projects/bbmap/
+2. BBMap: https://sourceforge.net/projects/bbmap/
+3. featureCounts: Liao Y, Smyth GK, Shi W. featureCounts: an efficient general purpose program for assigning sequence reads to genomic features. Bioinformatics. 2014 Apr 1;30(7):923-30.
+
+
+
+
+If you have any questions please let us know,
+Bill Andreopoulos, wandreopoulos@lbl.gov
+Christa Pennacchio, cppennacchio@lbl.gov
+Erika Lindquist, ealindquist@lbl.gov
+
