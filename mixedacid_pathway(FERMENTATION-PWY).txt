@@ -1,8 +1,0 @@
-Gene ID	Locus Tag	Gene Product Name	Genome ID	Genome Name	
-650469481	Clo1313_0640	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, alpha subunit  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
-650469482	Clo1313_0641	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
-650470027	Clo1313_1185	phosphate acetyltransferase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
-650470028	Clo1313_1186	acetate kinase (EC 2.7.2.1)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
-650470562	Clo1313_1717	formate acetyltransferase  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
-650470642	Clo1313_1798	acetaldehyde dehydrogenase (EC 1.2.1.10)/alcohol dehydrogenase AdhE (EC 1.1.1.1)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
-650470782	Clo1313_1944	isocitrate dehydrogenase (NADP) (EC 1.1.1.42)  	650377924	Ruminiclostridium thermocellum LQ8, DSM 1313	
